@@ -79,11 +79,4 @@ TensorFlow / Keras
 
 Jupyter Notebook / Colab
 
-📁 Repository Structure
-/Experiment 01 - Random Forest Classifier
-/Experiment 02 - PCA on Iris
-/Experiment 03 - Multiple Linear Regression
-...
-/Experiment 14 - Random Forest & SVM with Hyperparameter Tuning
-README.md
 
