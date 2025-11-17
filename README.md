@@ -4,6 +4,7 @@ This repository contains a comprehensive collection of Machine Learning experime
 Each experiment demonstrates a core ML concept, covering classification, regression, clustering, dimensionality reduction, association rule mining, neural networks, and hyperparameter tuning.
 
 List of Experiments
+
 🔹 Experiment 01 – Random Forest Classifier for Disease Prediction
 
 Implementation of a Random Forest model to predict disease presence using structured medical data.
@@ -86,18 +87,3 @@ Jupyter Notebook / Colab
 /Experiment 14 - Random Forest & SVM with Hyperparameter Tuning
 README.md
 
-🚀 How to Run
-
-Clone the repo:
-
-git clone https://github.com/<your-username>/<your-repo-name>.git
-
-
-Install required libraries:
-
-pip install -r requirements.txt
-
-
-Open any experiment using:
-
-jupyter notebook
